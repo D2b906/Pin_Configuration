@@ -22,3 +22,8 @@
 
 #define MASTER_LEFT
 #define SOFT_SERIAL_PIN D3
+
+#define MATRIX_ROWS 5
+#define MATRIX_COLS 15
+
+#define DIODE_DIRECTION ROW2COL
