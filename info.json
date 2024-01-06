@@ -1,9 +1,9 @@
 {
     "manufacturer": "d2b906",
-    "keyboard_name": "rmpin",
+    "keyboard_name": "pin",
     "maintainer": "d2b906",
-    "bootloader": "atmel-dfu",
-    "diode_direction": "COL2ROW",
+    "bootloader": "caterina",
+    "diode_direction": "ROW2COL",
     "features": {
         "bootmagic": true,
         "command": false,
@@ -11,6 +11,10 @@
         "extrakey": true,
         "mousekey": true,
         "nkro": true
+    },
+    "matrix_size":{
+        "rows":4,
+        "cols":12
     },
     "matrix_pins": {
         "cols": ["C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2"],
