@@ -18,3 +18,7 @@
 //#define NO_ACTION_LAYER
 //#define NO_ACTION_TAPPING
 //#define NO_ACTION_ONESHOT
+
+
+#define MASTER_LEFT
+#define SOFT_SERIAL_PIN D3
