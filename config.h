@@ -1,4 +1,4 @@
-// Copyright 2024 Ben Clayton (@d2b906)
+// Copyright 2024 d2b906 (@d2b906)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #pragma once
