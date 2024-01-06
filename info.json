@@ -1,0 +1,34 @@
+{
+    "manufacturer": "Ben Clayton",
+    "keyboard_name": "pin",
+    "maintainer": "d2b906",
+    "bootloader": "atmel-dfu",
+    "diode_direction": "ROW2COL",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true
+    },
+    "matrix_pins": {
+        "cols": ["C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2"],
+        "rows": ["D1", "D1", "D1", "D1"]
+    },
+    "processor": "atmega32u4",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT_split_3x6_3": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0.25},
+                {"matrix": [0, 0], "x": 0, "y": 0.25}
+            ]
+        }
+    }
+}
