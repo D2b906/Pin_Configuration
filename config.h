@@ -20,9 +20,3 @@
 //# NO_ACTION_ONESHOT
 
 #define MASTER_RIGHT
-#define SOFT_SERIAL_PIN D3
-
-//#define MATRIX_ROWS 4
-//#define MATRIX_ROW_PINS { DD6, DD7, DD8, DD9}
-//#define MATRIX_COLS 12
-//#define MATRIX_COL_PINS {DD6 , DD4 , DD5, D7, D6, D5, D4, D2, D1, DD0 , DD2 , DD3 }
