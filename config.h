@@ -17,6 +17,3 @@
 /* disable action features */
 //#define NO_ACTION_LAYER
 //#define NO_ACTION_TAPPING
-//# NO_ACTION_ONESHOT
-
-#define MASTER_RIGHT
